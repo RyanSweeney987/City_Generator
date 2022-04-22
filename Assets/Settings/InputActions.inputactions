@@ -1,0 +1,177 @@
+{
+    "name": "InputActions",
+    "maps": [
+        {
+            "name": "Generation",
+            "id": "67088816-efc9-4025-8bc8-3ad6928b8257",
+            "actions": [
+                {
+                    "name": "Generate",
+                    "type": "Button",
+                    "id": "62683a71-4ff0-48b3-9573-852db844a6a9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Clear",
+                    "type": "Button",
+                    "id": "05d78e74-f323-45ba-9fec-89f9881a507f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Generate_City",
+                    "type": "Button",
+                    "id": "699cd884-6499-45a8-9420-2bb8e6ae88d9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Generate_Street",
+                    "type": "Button",
+                    "id": "95944b33-6295-4843-987c-64d543e509e2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Generate_Park",
+                    "type": "Button",
+                    "id": "db04d582-44fb-4819-9ef9-4fb3edc6d62f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Generate_Factory",
+                    "type": "Button",
+                    "id": "591547af-6bf5-4f76-8edd-0b08aef13f7e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Generate_Wall",
+                    "type": "Button",
+                    "id": "8d68e32b-fcd8-4cb4-b649-961c08d0d464",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Quit",
+                    "type": "Button",
+                    "id": "723b4bbc-6538-4c88-92c7-8c5547636622",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c321553b-953d-4003-9f7c-7b73752be65f",
+                    "path": "<Keyboard>/g",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Generate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b3799854-751f-4c16-b404-6c48a349c56f",
+                    "path": "<Keyboard>/c",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Clear",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a611cb61-7f13-4c61-9925-54a9f7657fa1",
+                    "path": "<Keyboard>/5",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Generate_Wall",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "be01f25f-9c06-4369-a4ca-05b7187bf8a1",
+                    "path": "<Keyboard>/4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Generate_Factory",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "981a7682-1b68-4819-b024-80f20fd5cdc6",
+                    "path": "<Keyboard>/1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Generate_City",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "405da05d-15c0-4d39-a6be-2def157781fe",
+                    "path": "<Keyboard>/2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Generate_Street",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b2769969-5f9c-4473-bcf8-180b7e0b3e2f",
+                    "path": "<Keyboard>/3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Generate_Park",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b7a0f886-5a23-4149-8037-0b74d4721c3f",
+                    "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Quit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f92a8ee2-2685-4ae9-bfda-17dfbc4ed840",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Quit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
